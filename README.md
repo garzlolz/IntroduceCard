@@ -1,2 +1,2 @@
-# garz.github.io
+# garzlolz.github.io
 first website
