@@ -14,7 +14,7 @@ myImage.onclick = function()
 }
 //歷史紀錄
 var numh = window.history;
-document.getElementById("historyc").innerHTML= "歷史瀏覽紀錄 :" + numh.length;
+document.getElementById("historyc").innerHTML= "今日瀏覽紀錄 :" + numh.length;
 //函式
 var mybuttun = document.querySelector('button');
 var myheading = document.querySelector('h1');
